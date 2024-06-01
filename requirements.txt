@@ -1,8 +1,0 @@
-tensorflow
-pandas
-flask
-flask_cors
-requests
-pytz
-numpy
-gunicorn
