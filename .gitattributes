@@ -1,4 +1,0 @@
-transformer_v7/* filter=lfs diff=lfs merge=lfs -text
-transformer_v7/variables/* filter=lfs diff=lfs merge=lfs -text
-transformer_v7/assets/* filter=lfs diff=lfs merge=lfs -text
-C:/Users/soobe/Desktop/model1/transformer_v7/variables/* filter=lfs diff=lfs merge=lfs -text
